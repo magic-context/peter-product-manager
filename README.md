@@ -33,11 +33,17 @@ Every conversation builds on previous knowledge, making AI assistance genuinely 
 - "Summarize project status" → AI pulls from sprint progress, blockers, and milestones
 - "What did we decide about X?" → AI retrieves past decision rationale from documents
 
-### Organizational Memory
-- Track decision rationale across projects
-- Maintain consistency as products evolve
-- Preserve institutional knowledge
-- Onboard new team members with full context
+### The Bottom Line
+
+**This specialist makes your product work high-quality and developer-ready.**
+
+Every PRD, user story, and sprint plan you create is:
+- Strategically aligned with your product vision
+- Complete with context developers need
+- Consistent with past decisions and patterns
+- Ready for any developer (human or AI) to pick up and build great things
+
+Your product work becomes the foundation for excellent execution—not a bottleneck or source of confusion.
 
 ## Key Features
 
