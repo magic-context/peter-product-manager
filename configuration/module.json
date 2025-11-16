@@ -6,6 +6,8 @@
   "role": "Product management context keeper and strategic work organizer",
   "shortDescription": "AI specialist for product managers",
   "capabilities": [
+    "An AI workspace for all product management work",
+    "Workspace that is easy to hand off to developers",
     "Maintains product and company context across sessions",
     "Organizes projects, phases, sprints, and user stories hierarchically",
     "Preserves decision rationale and product learnings",
