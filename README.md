@@ -13,6 +13,32 @@ Product Managers face constant context loss when using AI tools. Each session st
 
 Every conversation builds on previous knowledge, making AI assistance genuinely valuable over time.
 
+## What You Can Do With This Specialist
+
+### Daily PM Tasks
+- **Write PRDs** that automatically align with your product vision and user personas
+- **Create user stories** with context from past features and technical constraints
+- **Plan sprints** that connect to project goals and track dependencies
+- **Prioritize features** based on your stated objectives and success metrics
+
+### Strategic Work
+- **Roadmap planning** with awareness of all active projects and their status
+- **Stakeholder communication** that maintains consistent product messaging
+- **User research synthesis** that builds on previous findings
+- **Competitive analysis** informed by your product positioning
+
+### Context-Aware Assistance
+- "Help me write a PRD" → AI references your product vision, user segments, and similar past features
+- "Should we build this feature?" → AI evaluates against your current priorities and roadmap
+- "Summarize project status" → AI pulls from sprint progress, blockers, and milestones
+- "What did we decide about X?" → AI retrieves past decision rationale from documents
+
+### Organizational Memory
+- Track decision rationale across projects
+- Maintain consistency as products evolve
+- Preserve institutional knowledge
+- Onboard new team members with full context
+
 ## Key Features
 
 - **Session Continuity** - Never re-explain your product context
