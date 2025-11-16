@@ -2,7 +2,7 @@
   "name": "Product Management Specialist",
   "type": "product-management",
   "version": "1.0.0",
-  "description": "AI specialist that maintains persistent product context, helping PMs focus on high-impact work through structured workspace organization",
+  "description": "AI specialist that helps PMs focus on high-impact work through AI assisted structured workspace",
   "role": "Product management context keeper and strategic work organizer",
   "shortDescription": "Eliminates context loss between AI sessions by maintaining hierarchical product context from company vision down to sprint-level user stories",
   "capabilities": [
