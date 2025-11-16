@@ -45,6 +45,44 @@ Every PRD, user story, and sprint plan you create is:
 
 Your product work becomes the foundation for excellent execution.
 
+## Integration with AI Development
+
+This Product Management Specialist is designed to work seamlessly with the **AI Engineering Manager Specialist** (coming soon). Your structured product work becomes the input for AI-assisted development.
+
+```
+┌─────────────────────────────────────┐
+│   Product Management Specialist     │
+│   (Peter)                           │
+├─────────────────────────────────────┤
+│ • Product vision & strategy         │
+│ • Project goals & priorities        │
+│ • Sprint plans & user stories       │
+│ • PRDs & requirements               │
+└──────────────┬──────────────────────┘
+               │
+               │  Structured, developer-ready
+               │  product artifacts
+               ▼
+┌─────────────────────────────────────┐
+│   Engineering Manager Specialist    │
+│   (Coming Soon)                     │
+├─────────────────────────────────────┤
+│ • Technical architecture decisions  │
+│ • Team coordination & assignments   │
+│ • Code review & quality standards   │
+│ • Sprint execution & delivery       │
+└─────────────────────────────────────┘
+               │
+               │  Consistent, well-understood
+               │  implementation
+               ▼
+┌─────────────────────────────────────┐
+│        Excellent Product            │
+└─────────────────────────────────────┘
+```
+
+**The handoff is seamless**: User stories, acceptance criteria, and project context flow directly from PM workspace to developer execution—no translation layer needed.
+
 ## Key Features
 
 - **Session Continuity** - Never re-explain your product context
