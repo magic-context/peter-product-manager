@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "AI specialist that helps PMs focus on high-impact work through AI assisted structured workspace",
   "role": "Product management context keeper and strategic work organizer",
-  "shortDescription": "Eliminates context loss between AI sessions by maintaining hierarchical product context from company vision down to sprint-level user stories",
+  "shortDescription": "AI specialist for product managers",
   "capabilities": [
     "Maintains product and company context across sessions",
     "Organizes projects, phases, sprints, and user stories hierarchically",
