@@ -43,7 +43,7 @@ Every PRD, user story, and sprint plan you create is:
 - Consistent with past decisions and patterns
 - Ready for any developer (human or AI) to pick up and build great things
 
-Your product work becomes the foundation for excellent execution—not a bottleneck or source of confusion.
+Your product work becomes the foundation for excellent execution.
 
 ## Key Features
 
