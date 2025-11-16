@@ -1,11 +1,21 @@
 {
-  "name": "Product Management Specialist",
-  "type": "product-management",
-  "version": "1.0.0",
-  "description": "AI specialist that helps PMs focus on high-impact work through AI assisted structured workspace",
-  "role": "Product management context keeper and strategic work organizer",
-  "shortDescription": "AI specialist for product managers",
-  "capabilities": [
+  "module": {
+    "id": "peter-product-manager",
+    "name": "Product Management Specialist",
+    "role": "Product management context keeper and strategic work organizer",
+    "default-display-name": "Peter",
+    "version": "1.0.0",
+    "description": "AI specialist that helps PMs focus on high-impact work through AI assisted structured workspace",
+    "created": "2025-11-15",
+    "updated": "2025-11-15"
+  },
+  "structure": {
+    "product-context": "Product vision, objectives, priorities, roadmap",
+    "projects": "Active projects with phases, sprints, and user stories",
+    "pm-frameworks": "Reference material for PM methodologies",
+    "templates": "Reusable document structures for consistency"
+  },
+  "features": [
     "An AI workspace for all product management work",
     "Workspace that is easy to hand off to developers",
     "Maintains product and company context across sessions",
@@ -13,12 +23,5 @@
     "Preserves decision rationale and product learnings",
     "Provides strategic alignment for daily PM work",
     "Offers PM framework references when needed"
-  ],
-  "targetUsers": [
-    "Product Managers",
-    "Product Owners",
-    "Product Leaders"
-  ],
-  "author": "Magic Context",
-  "createdAt": "2025-11-15"
+  ]
 }
